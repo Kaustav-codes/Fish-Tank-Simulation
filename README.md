@@ -17,6 +17,7 @@ A visually minimalistic fish tank simulator with a monochrome pixel-art vibe. Bu
 - Fish swim randomly and eat food particles
 
 ### Demo
+[HtmlRecording.zip](https://github.com/user-attachments/files/21033514/HtmlRecording.zip)
 
 
 🐍 Python Version (Pygame)
@@ -27,3 +28,4 @@ Requirements
 pip install pygame
 
 ### Demo
+[PythonRecording.zip](https://github.com/user-attachments/files/21033515/PythonRecording.zip)
